@@ -24,5 +24,6 @@ Java, MySQL
 ![image](https://user-images.githubusercontent.com/119651889/235172197-db3d6f0c-db37-4290-9308-593df1da80fd.png)
 
 #### 7. PT 자료
-[COEX_project.pdf](https://github.com/Tea-ho/COEX/files/11354429/COEX_project.pdf)
+[Team_Project_Coin.pptx](https://github.com/Tea-ho/COEX/files/11354786/Team_Project_Coin.pptx)
+
 
