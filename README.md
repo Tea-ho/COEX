@@ -1,8 +1,9 @@
 # coinProject
 console coinProject
 
-#### 0. 시현 영상 
-https://youtu.be/XvDkIf4gVvE
+#### 0. 시현 영상 및 PT자료
+- https://youtu.be/XvDkIf4gVvE
+- [Team_Project_Coin.pptx](https://github.com/Tea-ho/COEX/files/11354786/Team_Project_Coin.pptx)
 
 #### 1. 주제 : 계좌 생성 및 코인 거래 서비스 (콘솔 프로젝트)
 
@@ -22,8 +23,3 @@ Java, MySQL
 
 #### 6. 구조도 (Control Strucure)
 ![image](https://user-images.githubusercontent.com/119651889/235172197-db3d6f0c-db37-4290-9308-593df1da80fd.png)
-
-#### 7. PT 자료
-[Team_Project_Coin.pptx](https://github.com/Tea-ho/COEX/files/11354786/Team_Project_Coin.pptx)
-
-
