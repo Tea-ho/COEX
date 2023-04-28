@@ -1,5 +1,5 @@
 # coinProject
-2개월차 console coinProject
+console coinProject
 
 #### 0. 시현 영상 
 https://youtu.be/XvDkIf4gVvE
